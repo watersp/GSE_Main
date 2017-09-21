@@ -5,3 +5,5 @@
 *.obj
 *.pch
 *.ilk
+*.opendb
+
