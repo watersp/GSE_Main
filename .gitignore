@@ -3,4 +3,5 @@
 *.pch
 *.obj
 *.log
+*.exe
 .vs/
